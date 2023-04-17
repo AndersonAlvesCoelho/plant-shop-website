@@ -10,7 +10,7 @@
 <img  src="https://cdn.discordapp.com/attachments/784203898084130856/1097534100987985960/image.png" />
 </h1>
 <h1 align="center">
-  Piercing Table
+  Plant Shop Website
 </h1>
 
 ## 💡 Sobre o Projeto
