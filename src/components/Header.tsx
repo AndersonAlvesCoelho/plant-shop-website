@@ -4,7 +4,7 @@ import Bars3BottomRightIcon from "@heroicons/react/24/outline/Bars3BottomRightIc
 
 export default function Header() {
   return (
-    <header className="flex gap-6 justify-between items-center text-center p-2">
+    <header className="flex gap-6 justify-between items-center text-center p-2 mt-12">
       <div className="flex gap-24">
         <a>GREENMIND</a>
 

@@ -44,7 +44,6 @@ export default function Hero() {
       </div>
 
       <Image
-        className="-mb-10"
         src="/hero.png"
         alt="Image of a hand holding a plant"
         width={722}
